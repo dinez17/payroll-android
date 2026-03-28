@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Payroll Mobile</string>
+    <string name="setup_title">Configure Payroll Server</string>
+    <string name="setup_url_helper">Enter your secure payroll server URL. This is required only once and can be changed later from the menu.</string>
+    <string name="server_url_hint">https://your-payroll-domain.com</string>
+    <string name="save_and_continue">Save and Continue</string>
+    <string name="save_server_url">Save URL</string>
+    <string name="change_server_url">Change Server URL</string>
+    <string name="reload">Reload</string>
+    <string name="error_invalid_url">Please enter a valid HTTPS URL.</string>
+    <string name="error_invalid_saved_url">Saved URL is invalid. Configure server URL again.</string>
+    <string name="url_saved">Server URL saved.</string>
+    <string name="url_updated">Server URL updated.</string>
+</resources>
